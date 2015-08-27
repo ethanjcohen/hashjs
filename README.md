@@ -1,3 +1,6 @@
+I am no longer working on this library. I suggest you use a more robust framework, like Angular.js.
+- Ethan Cohen
+
 hashjs
 ======
 
